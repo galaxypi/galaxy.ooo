@@ -1,2 +1,2 @@
-# berry-website
-The Berry Pi Project website
+# galaxy-website
+The Galaxy website
