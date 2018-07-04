@@ -1,6 +1,6 @@
 {
   "name": "galaxy",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "Galaxy is a network of tiny computers",
   "private": true,
   "scripts": {
