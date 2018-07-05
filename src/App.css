@@ -13,9 +13,7 @@
 /*  9. Fonts */
 /* 16. Navbar */
 
-
-
-.App {
-  text-align: center;
+.cover-container {
+  max-width: 42rem;
 }
 

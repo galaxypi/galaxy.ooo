@@ -13,9 +13,9 @@ class App extends Component {
           paddingTop: '40px',
           paddingBottom: '40px'
         }}>
-        <div className="container-fluid">
-          <h1 className="container-fluid font-weight-bold text-white">Welcome to Galaxy</h1>
-          <p className="container-fluid col-md-6 text-white-50">Galaxy is a network of tiny computers running various decentralized and crypto services, cryptocurrencies and networks around the world. These tiny computers provide networks to quickly bootstrap to a galaxy of nodes.</p>
+        <div className="container-fluid cover-container text-center">
+          <h1 className="font-weight-bold text-white">Welcome to Galaxy</h1>
+          <p className="text-white-50">Galaxy is a network of tiny computers running various decentralized and crypto services, cryptocurrencies and networks around the world. These tiny computers provide networks to quickly bootstrap to a galaxy of nodes.</p>
         </div>
       </div>
     );
