@@ -14,7 +14,7 @@ class App extends Component {
           paddingTop: '10%',
           paddingBottom: '40px'
         }}>
-        <h1 className="h3 mb-3 font-weight-normal">Welcome to Theorem</h1>
+        <h1 className="h3 mb-3">Welcome to Galaxy</h1>
       </div>
     );
   }
