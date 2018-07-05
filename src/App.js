@@ -12,8 +12,7 @@ class App extends Component {
           alignItems: 'center',
           paddingTop: '40px',
           paddingTop: '10%',
-          paddingBottom: '40px',
-          backgroundColor: '#f5f5f5'
+          paddingBottom: '40px'
         }}>
         <h1 className="h3 mb-3 font-weight-normal">Welcome to Theorem</h1>
       </div>
