@@ -5,14 +5,17 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div className="App"
+        style={{
+          height: '100%',
+          display: 'flex',
+          alignItems: 'center',
+          paddingTop: '40px',
+          paddingTop: '10%',
+          paddingBottom: '40px',
+          backgroundColor: '#f5f5f5'
+        }}>
+        <h1 className="h3 mb-3 font-weight-normal">Welcome to Theorem</h1>
       </div>
     );
   }
