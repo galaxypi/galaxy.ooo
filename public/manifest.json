@@ -1,15 +1,16 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
+  "short_name": "Galaxy",
+  "name": "Galaxy",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "description": "Galaxy is a network of tiny computers running decentralized networks",
+    "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256 48x48 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ]
 }
