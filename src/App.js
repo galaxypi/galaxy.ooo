@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Header from './components/Header';
 import './App.css';
 
 class App extends Component {
@@ -12,6 +13,7 @@ class App extends Component {
           paddingTop: '40px',
           paddingBottom: '40px'
         }}>
+        <Header />
         <div className="container-fluid cover-container text-center">
           <h1 className="text-white">Welcome to Galaxy</h1>
           <p className="lead text-white-50">Galaxy is a network of tiny computers running various decentralized and crypto services, cryptocurrencies and networks around the world. These tiny computers provide networks to quickly bootstrap to a galaxy of nodes.</p>

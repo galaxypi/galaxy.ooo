@@ -3,16 +3,17 @@ import React, { Component } from 'react';
 class Header extends Component {
   render() {
     return (
-      <nav className="navbar fixed-top navbar-light bg-light"
+      <nav className="navbar fixed-top"
         style={{
           height: '80px',
-          borderBottom: '1px solid #eeeeee'
+          borderBottom: '1px solid rgba(255,255,255,0.1)'
         }} >
         <a className="navbar-brand font-weight-bold"
           href="#"
           style={{
             lineHeight: '2.5rem',
-            fontSize: '1.2rem'
+            fontSize: '1.2rem',
+            color: '#fff'
           }}>
           <img src="#"
             className="brand-image"
