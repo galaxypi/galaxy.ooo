@@ -15,6 +15,7 @@ class Header extends Component {
             fontSize: '1.2rem',
             color: '#fff'
           }}>
+          {/*
           <img src="#"
             className="brand-image"
             alt=""
@@ -23,6 +24,7 @@ class Header extends Component {
             style={{
               marginRight: '5px'
             }} />
+          */}
           Galaxy
         </a>
         {/*
