@@ -1,15 +1,26 @@
 <p align="center">
   <br/>
 
-  <h3 align="center">Galaxy</h3>
+  <h3 align="center">Galaxy Web App</h3>
 
   <p align="center">
-    Galaxy Pi Project
+    The repository for the galaxy.ooo web app
     <br/>
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
     <br/>
+    <a href="https://github.com/galaxypi/galaxy-website#contributing">Contribute</a>
+    &middot;
     <a href="https://github.com/galaxypi/">Explore</a>
+    <br/>
+    <br/>
+    <a href="https://twitter.com/intent/follow?screen_name=galaxypilab">
+      <img src="https://img.shields.io/twitter/follow/galaxypilab.svg?style=social&label=Follow&maxAge=2592000" alt="Follow on Twitter">
+    </a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://github.com/galaxypi/galaxy-website/stargazers">
+      <img src="https://img.shields.io/github/stars/galaxypi/galaxy-website.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
+    </a>
   </p>
 </p>
 
