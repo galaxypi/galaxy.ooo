@@ -4,7 +4,7 @@
   <h3 align="center">Galaxy Web App</h3>
 
   <p align="center">
-    The repository for the galaxy.ooo web app
+    The repository for the galaxy.ooo web app.
     <br/>
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
