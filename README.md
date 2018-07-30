@@ -15,7 +15,7 @@
     <br/>
     <br/>
     <a href="https://twitter.com/intent/follow?screen_name=galaxypilab">
-      <img src="https://img.shields.io/twitter/follow/galaxypilab.svg?style=social&label=Follow&maxAge=2592000" alt="Follow on Twitter">
+      [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/galaxypilab)
     </a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/galaxy-website/stargazers">
