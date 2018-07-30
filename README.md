@@ -14,8 +14,9 @@
     <a href="https://github.com/galaxypi/">Explore</a>
     <br/>
     <br/>
-    [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/galaxypilab)
-    
+    <a href="https://twitter.com/intent/follow?screen_name=galaxypilab">
+      <img src="https://img.shields.io/twitter/url/https/twitter.com/galaxypilab.svg?style=social&label=Follow%20%40galaxypilab&logo=twitter" alt="follow on Twitter">
+    </a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/galaxy-website/stargazers">
       <img src="https://img.shields.io/github/stars/galaxypi/galaxy-website.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
