@@ -103,32 +103,41 @@ galaxy.ooo
 </div>
 
 
-## Getting started
+## Quick start
 
-Get started by cloning the repository to your local machine
+Quickly start by cloning the repository to your local machine
 
 ```
 $ git clone git@github.com:galaxypi/galaxy.ooo.git
 ```
 
-Start MongoDB server
+Install [`yarn`](https://yarnpkg.com/lang/en/docs/install/)
 
 ```
-$ mongod
+$ brew install yarn
 ```
 
-Start the backend and client side server as well as connect to the MongoDB database via Mongoose
+Add dependencies
 
 ```
-$ npm run dev
+$ yarn add
+```
+
+Start the local client side server
+
+```
+$ yarn start
 ```
 
 You should see the following server running
 
 ```
-Server running on localhost:5000......
-MongoDB Connected.....
+Starting the development server.....
 ```
+
+The app will automatically open your web browser and navigate to http://localhost:3000/ for you.
+
+Read the [Getting started](/docs/getting-started.md) page for more detailed information on installing and running Galaxy.ooo.
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
