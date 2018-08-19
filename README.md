@@ -136,13 +136,6 @@ For detailed instructions on on installing and running Galaxy.ooo, please visit 
 </div>
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-<div align="right">
-    <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
-</div>
-
-
 ## Finding opportunities to contribute
 
 Visit our issue tracker:
