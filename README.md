@@ -63,12 +63,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Resolved build failures
 
 [![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
-<br/>
+
 [![Build Status](https://img.shields.io/badge/Build_Status-Passing-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![AJV version](https://img.shields.io/badge/AJV-v6.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/epoberezkin/ajv)
-
 [![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.0.0--alpha.6-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
-
 [![jQuery version](https://img.shields.io/badge/jQuery-v3.3.1-blue.svg?colorA=212121&colorB=007BFF)](https://jquery.com/)
 [![Popper version](https://img.shields.io/badge/Popper.js-v1.14.3-blue.svg?colorA=212121&colorB=007BFF)](https://popper.js.org/)
 [![React version](https://img.shields.io/badge/React-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
