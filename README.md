@@ -36,13 +36,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-<br/>
-
 
 ## Table of contents
 
 - [Status](#status)
-- [Getting started](#getting-started)
+- [Quick start](#quick-start)
 - [Using the issue tracker](#using-the-issue-tracker)
 - [Bug reports](#bug-reports)
 - [Feature requests](#feature-requests)
@@ -66,7 +64,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Build Status](https://img.shields.io/badge/Build_Status-Passing-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![AJV version](https://img.shields.io/badge/AJV-v6.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/epoberezkin/ajv)
-[![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.0.0--alpha.6-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
+[![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.0.0--alpha.6-blue.svg?colorA=212121&colorB=FF0000)](http://getbootstrap.com/)
 [![jQuery version](https://img.shields.io/badge/jQuery-v3.3.1-blue.svg?colorA=212121&colorB=007BFF)](https://jquery.com/)
 [![Popper version](https://img.shields.io/badge/Popper.js-v1.14.3-blue.svg?colorA=212121&colorB=007BFF)](https://popper.js.org/)
 [![React version](https://img.shields.io/badge/React-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
@@ -123,21 +121,13 @@ Add dependencies
 $ yarn add
 ```
 
-Start the local client side server
+Start the local client side server and run the app. The app will automatically open your web browser and navigate to http://localhost:3000/ for you
 
 ```
 $ yarn start
 ```
 
-You should see the following server running
-
-```
-Starting the development server.....
-```
-
-The app will automatically open your web browser and navigate to http://localhost:3000/ for you.
-
-Read the [Getting started](/docs/getting-started.md) page for more detailed information on installing and running Galaxy.ooo.
+For detailed instructions on on installing and running Galaxy.ooo, please visit the [Getting started](/docs/getting-started.md) page.
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
