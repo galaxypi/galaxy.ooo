@@ -18,7 +18,7 @@ Home
 ├── Music
 ├── Pictures
 ├── Public
-├── sites
+└── sites
    └── [example site 1]
    └── [example site 2]
    └── [example site 3]

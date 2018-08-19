@@ -75,6 +75,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 galaxy.ooo
 ├── .gitignore
+├── docs
+│  └── getting-started.md
 ├── package.json
 ├── public
 │  └── favicon.ico
