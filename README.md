@@ -81,7 +81,7 @@ galaxy.ooo
 │  └── index.html
 │  └── manifest.json
 ├── README.md
-└── src
+├── src
 │  └── App.css
 │  └── App.js
 │  └── App.scss
