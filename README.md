@@ -41,7 +41,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [Status](#status)
 - [Quick start](#quick-start)
-- [Using the issue tracker](#using-the-issue-tracker)
 - [Bug reports](#bug-reports)
 - [Feature requests](#feature-requests)
 - [Contributing](#contributing)
@@ -134,82 +133,11 @@ For detailed instructions on on installing and running Galaxy.ooo, please visit 
 </div>
 
 
-## Finding opportunities to contribute
+## Bug report
 
-Visit our issue tracker:
-
-- [Issue Tracker](https://github.com/galaxypi/galaxy.ooo/issues)
-
-If the ticket your interested in is being worked, feel free to provide feedback.
-
-Otherwise, leave a comment addressing one of the [repo maintainers](#repository-maintainers) to get
-the conversation started.
-
-Whether you are a veteran programmer, beginner programmer, or don't program at all, we
-are positive you will find a place to helping us build a decentralized internet!
-
-<div align="right">
-    <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
-</div>
-
-
-## Using the issue tracker
-
-The [issue tracker](https://github.com/galaxypi/galaxy.ooo/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests), but please respect the following
-restrictions:
-
-* Please **do not** use the issue tracker for personal support requests.  Please use [Galaxy Discord](https://discord.gg/36K9nan) chat app as it is a better places to get help.
-
-* Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
-
-* Please **do not** post comments consisting solely of "+1" or ":thumbsup:". Use [GitHub's "reactions" feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) instead. We reserve the right to delete comments which violate this rule.
-
-### When reporting a bug, include:
-
-* Operating system and version (Windows, Mac OS X, Android, iOS, Win10 Mobile)
-
-* Browser and version (Chrome, Firefox, Safari, IE, MS Edge, Opera 15+, Android Browser)
-
-* Reduced test cases and potential fixes using [JS Bin](https://jsbin.com)
-
-<div align="right">
-    <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
-</div>
-
-
-## Bug reports
-
-A bug is a _demonstrable problem_ that is caused by the code in the repository. Good bug reports are extremely helpful, so thanks!
-
-Guidelines for bug reports:
-
-1. **Validate and lint your code** &mdash; [validate your HTML](https://html5.validator.nu) and [lint your HTML](https://github.com/twbs/bootlint) to ensure your problem isn't caused by a simple error in your own code.
-
-2. **Use the GitHub issue search** &mdash; [Search for duplicate or closed issues]().
-
-3. **Check if the issue has been fixed** &mdash; try to reproduce it using the latest `master`, `develop` or development branch in the repository.
-
-4. **Isolate the problem** &mdash; ideally create a [reduced test case](https://css-tricks.com/reduced-test-cases/) and a live example. [This JS Bin](https://jsbin.com/lolome/edit?html,output) is a helpful template.
-
-A good bug report shouldn't leave others needing to chase you up for more information. Please try to be as detailed as possible in your report. What is your environment? What steps will reproduce the issue? What browser(s) and OS experience the problem? Do other browsers show the bug differently? What would you expect to be the outcome? All these details will help people to fix any potential bugs.
-
-Example:
-
-> Short and descriptive example bug report title
->
-> A summary of the issue and the browser/OS environment in which it occurs. If
-> suitable, include the steps required to reproduce the bug.
->
-> 1. This is the first step
-> 2. This is the second step
-> 3. Further steps, etc.
->
-> `<url>` - a link to the reduced test case
->
-> Any other information you want to share that is relevant to the issue being
-> reported. This might include the lines of code that you have identified as
-> causing the bug, and potential solutions (and your opinions on their
-> merits).
+Found a bug or issue? Please first read the [issue & bug guidelines](/docs/CONTRIBUTING.md#using-the-issue-tracker)
+and search for existing and closed issues. If your problem or idea is not
+addressed yet, [please open a new issue](https://github.com/galaxypi/galaxy.ooo/issues/new?template=issues.md).
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
@@ -218,7 +146,17 @@ Example:
 
 ## Feature requests
 
-Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and aims of the project. It's up to *you* to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, providing relevant links, prior art, or live demos whenever possible.
+Feature requests are highly encouraged. We want to hear from you on what
+you'd like to see and/or how you'd like to utilize or access the Galaxy node
+network.
+
+<a href="https://github.com/galaxypi/galaxy.ooo/issues/new?template=feature_request.md">› Request a feature</a>
+
+When submitting a feature request, take a moment to find out whether your idea
+fits with the scope and aims of the project. It's up to *you* to make a strong
+case to convince community members of the merits of this feature. Please
+provide as much detail and context as possible, providing relevant links, prior
+art, or live demos whenever possible.
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
