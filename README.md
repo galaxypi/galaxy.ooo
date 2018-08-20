@@ -44,8 +44,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Using the issue tracker](#using-the-issue-tracker)
 - [Bug reports](#bug-reports)
 - [Feature requests](#feature-requests)
-- [Pull requests](#pull-requests)
-- [Code guidelines](#code-guidelines)
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
@@ -70,7 +68,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![React version](https://img.shields.io/badge/React-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
 [![ReactZDom version](https://img.shields.io/badge/ReactDom-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/docs/react-dom.html)
 [![React Scripts version](https://img.shields.io/badge/React_Scripts-v1.1.4-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
-[![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/guylepage3/px-rem-reference)
+[![px-rem-reference version](https://img.shields.io/badge/PX--REM_Reference-v1.2.2-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/package/px-rem-reference)
 
 ```
 galaxy.ooo
@@ -95,7 +93,6 @@ galaxy.ooo
 │  └── logo.svg
 │  └── registerServiceWorker.js
 └── yarn.lock
-
 ```
 
 <div align="right">
@@ -111,7 +108,7 @@ Quickly start by cloning the repository to your local machine
 $ git clone git@github.com:galaxypi/galaxy.ooo.git
 ```
 
-Install [`yarn`](https://yarnpkg.com/lang/en/docs/install/)
+Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
 ```
 $ brew install yarn
