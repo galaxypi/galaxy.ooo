@@ -1,7 +1,7 @@
 {
   "name": "Galaxy",
-  "version": "0.1.1",
-  "description": "Galaxy is a network of tiny computers",
+  "version": "0.1.2",
+  "description": "Galaxy is a network of decentralized nodes offering services for decentralized platforms",
   "private": true,
   "scripts": {
     "start": "react-scripts start",

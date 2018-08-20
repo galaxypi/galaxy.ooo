@@ -44,6 +44,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Using the issue tracker](#using-the-issue-tracker)
 - [Bug reports](#bug-reports)
 - [Feature requests](#feature-requests)
+- [Contributing](#contributing)
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
@@ -58,7 +59,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Changed `create-react-app` name to `client`
 - Resolved build failures
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.1-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.2-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 
 [![Build Status](https://img.shields.io/badge/Build_Status-Passing-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![AJV version](https://img.shields.io/badge/AJV-v6.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/epoberezkin/ajv)
@@ -218,6 +219,18 @@ Example:
 ## Feature requests
 
 Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and aims of the project. It's up to *you* to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, providing relevant links, prior art, or live demos whenever possible.
+
+<div align="right">
+    <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
+</div>
+
+
+## Contributing
+
+Please read through our [contributing guidelines](/docs/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, if your pull request contains JavaScript patches or features, you
+must include relevant unit tests. All code should conform to the [Code Guidelines](/docs/CONTRIBUTING.md#code-guidelines).
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>

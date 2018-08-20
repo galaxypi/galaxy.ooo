@@ -15,8 +15,8 @@ class App extends Component {
         }}>
         <Header />
         <div className="container-fluid cover-container text-center">
-          <h1 className="text-white">Galaxy Pi</h1>
-          <p className="lead text-white-50">Galaxy Pi is an open SDK and global network of dedicated Pi nodes for decentralized platforms & protocols</p>
+          <h1 className="text-white">Galaxy</h1>
+          <p className="lead text-white-50">Galaxy is a network of decentralized nodes offering services for decentralized platforms</p>
         </div>
       </div>
     );

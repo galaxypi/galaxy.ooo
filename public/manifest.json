@@ -1,11 +1,11 @@
 {
   "short_name": "Galaxy",
-  "name": "Galaxy",
+  "name": "Galaxy Node Network",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "description": "Galaxy is a network of tiny computers running decentralized networks",
+  "description": "Galaxy is a network of decentralized nodes offering services for decentralized platforms",
     "icons": [
     {
       "src": "favicon.ico",
