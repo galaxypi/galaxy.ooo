@@ -72,6 +72,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```
 galaxy.ooo
+├── .github
+│  └── ISSUE_TEMPLATE
+│  │  └── bug_report.md
+│  │  └── custom-issue.md
+│  │  └── feature_request.md
 ├── .gitignore
 ├── docs
 │  └── CONTRIBUTING.md
