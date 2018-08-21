@@ -180,6 +180,22 @@ must include relevant unit tests. All code should conform to the [Code Guideline
 </div>
 
 
+## Community
+
+Get updates on Galaxy's development and chat with the project maintainers and community members.
+
+- Follow [@galaxypilab on Twitter](https://twitter.com/galaxypilab).
+- Join the official [Galaxy Discord](https://discord.gg/36K9nan) chat room.
+
+[› Galaxy Community page (⍐ galaypi/galaxy › community)](https://github.com/galaxypi/galaxy/blob/master/docs/community.md)
+
+For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page (⍐ galaypi/galaxy › community)](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
+
+<div align="right">
+    <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
+</div>
+
+
 ## Repository maintainers
 
 **Guy Lepage**, _Product, Design & Development_
