@@ -44,6 +44,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Bug report](#bug-report)
 - [Feature requests](#feature-requests)
 - [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [Community](#community)
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
@@ -180,6 +182,30 @@ must include relevant unit tests. All code should conform to the [Code Guideline
 </div>
 
 
+## Roadmap
+
+View the detailed Galaxy Roadmap to see what's coming next.
+
+[› Galaxy Roadmap page (galaxy/docs/roadmap.md)](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md)
+
+Galaxy's mission is to become the world's largest network of decentralized
+nodes offering services for decentralized platforms. We are looking to do this
+by executing the following;
+
+- [ ] Focus on building and scaling the Galaxy blockchain and currency
+- [ ] Build a large community of open source developers
+- [ ] Provide high developers with access to this network of nodes by building
+      and maintaining an SDK
+- [ ] Provide the best experience for developers to quickly deploy apps and
+      services to decentralized platforms
+
+View the detailed [Galaxy Roadmap page (galaxy/docs/roadmap.md)](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md) to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+
+<div align="right">
+    <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
+</div>
+
+
 ## Community
 
 Get updates on Galaxy's development and chat with the project maintainers and community members.
@@ -187,9 +213,9 @@ Get updates on Galaxy's development and chat with the project maintainers and co
 - Follow [@galaxypilab on Twitter](https://twitter.com/galaxypilab).
 - Join the official [Galaxy Discord](https://discord.gg/36K9nan) chat room.
 
-[› Galaxy Community page (⍐ galaypi/galaxy › community)](https://github.com/galaxypi/galaxy/blob/master/docs/community.md)
+[› Galaxy Community page (galaxy/docs/community.md)](https://github.com/galaxypi/galaxy/blob/master/docs/community.md)
 
-For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page (⍐ galaypi/galaxy › community)](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
+For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page (galaxy/docs/community.md)](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
