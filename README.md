@@ -16,7 +16,7 @@
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/">Explore</a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/galaxypi/galaxy.ooo/issues/new?template=issues.md">
+    <a href="https://github.com/galaxypi/galaxy.ooo/issues/new?template=bug_report.md">
     Report bug</a>
     &nbsp;&middot;&nbsp;
     <a href="https://discord.gg/36K9nan">Chat</a>
@@ -58,7 +58,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Changed `create-react-app` name to `client`
 - Resolved build failures
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.3-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.4-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 
 [![Build Status](https://img.shields.io/badge/Build_Status-Passing-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![AJV version](https://img.shields.io/badge/AJV-v6.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/epoberezkin/ajv)
@@ -137,8 +137,7 @@ For detailed instructions on on installing and running Galaxy.ooo, please visit 
 ## Bug report
 
 Found a bug or issue? Please first read the [issue & bug guidelines](/docs/CONTRIBUTING.md#using-the-issue-tracker)
-and search for existing and closed issues. If your problem or idea is not
-addressed yet, [please open a new issue](https://github.com/galaxypi/galaxy.ooo/issues/new?template=issues.md).
+and search for existing and closed issues. If your problem is not addressed yet, [please report a bug](https://github.com/galaxypi/galaxy.ooo/issues/new?template=bug_report.md).
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>

@@ -1,7 +1,7 @@
 # Contributing
 
 - [Using the issue tracker](#using-the-issue-tracker)
-- [Bug reports](#bug-reports)
+- [Bug report](#bug-report)
 - [Feature requests](#feature-requests)
 - [Pull requests](#pull-requests)
 - [Code guidelines](#code-guidelines)
@@ -16,7 +16,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/galaxypi/galaxy.ooo/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests), but please respect the following
+The [issue tracker](https://github.com/galaxypi/galaxy.ooo/issues) is the preferred channel for [bug reports](#bug-report), [features requests](#feature-requests), [custom issues](https://github.com/galaxypi/galaxy.ooo/issues/new?template=custom-issue.md), [features requests](#feature-requests) and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
 
 * Please **do not** use the issue tracker for personal support requests.  Please use [Galaxy Discord](https://discord.gg/36K9nan) chat app as it is a better places to get help.
@@ -34,9 +34,11 @@ restrictions:
 * Reduced test cases and potential fixes using [JS Bin](https://jsbin.com)
 
 
-## Bug reports
+## Bug report
 
 A bug is a _demonstrable problem_ that is caused by the code in the repository. Good bug reports are extremely helpful, so thanks!
+
+<a href="https://github.com/galaxypi/galaxy.ooo/issues/new?template=bug_report.md">› Report bug</a>
 
 Guidelines for bug reports:
 
