@@ -16,7 +16,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/galaxypi/galaxy.ooo/issues) is the preferred channel for [bug reports](#bug-report), [features requests](#feature-requests), [custom issues](https://github.com/galaxypi/galaxy.ooo/issues/new?template=custom-issue.md), [features requests](#feature-requests) and [submitting pull requests](#pull-requests), but please respect the following
+The [issue tracker](https://github.com/galaxypi/galaxy.ooo/issues) is the preferred channel for [bug reports](#bug-report), [feature requests](#feature-requests), [custom issues](https://github.com/galaxypi/galaxy.ooo/issues/new?template=custom-issue.md) and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
 
 * Please **do not** use the issue tracker for personal support requests.  Please use [Galaxy Discord](https://discord.gg/36K9nan) chat app as it is a better places to get help.
