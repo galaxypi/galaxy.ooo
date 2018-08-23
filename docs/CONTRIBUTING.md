@@ -104,7 +104,7 @@ Adhering to the following process is the best way to get your work included in t
    https://help.github.com/articles/fork-a-repo/#keep-your-fork-synced), and
    configure the remotes:
 
-   ```bash
+   ```
    # Clone your fork of the repo into the current directory
    git clone https://github.com/<your-username>/galaxy.ooo.git
    # Navigate to the newly cloned directory
