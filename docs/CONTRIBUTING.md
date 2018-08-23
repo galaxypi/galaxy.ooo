@@ -115,7 +115,7 @@ Adhering to the following process is the best way to get your work included in t
 
 3. If you cloned a while ago, get the latest changes from upstream:
 
-   ```bash
+   ```
    git checkout develop
    git pull upstream develop
    ```
@@ -123,7 +123,7 @@ Adhering to the following process is the best way to get your work included in t
 4. Create a new topic branch (off the main project development branch) to
    contain your feature, change, or fix:
 
-   ```bash
+   ```
    git checkout -b pull-request/<topic-branch-name>
    ```
 
@@ -137,13 +137,13 @@ Adhering to the following process is the best way to get your work included in t
 6. Locally merge (or rebase) the upstream development branch into your topic
    branch:
 
-   ```bash
+   ```
    git pull [--rebase] upstream develop
    ```
 
 7. Push your topic branch up to your fork:
 
-   ```bash
+   ```
    git push origin pull-request/<topic-branch-name>
    ```
 
