@@ -55,9 +55,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Build - passing
 - Changed `create-react-app` name to `client`
-- Resolved build failures
+- Uses Sass for theming edits
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.4-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.5-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
 [![Build Status](https://img.shields.io/badge/Build_Status-Passing-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
