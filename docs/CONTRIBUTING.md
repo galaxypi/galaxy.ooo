@@ -5,6 +5,7 @@
 - [Feature requests](#feature-requests)
 - [Pull requests](#pull-requests)
 - [Code guidelines](#code-guidelines)
+- [Galaxy UI](#galaxy-ui)
 - [Versioning](#versioning)
 
 Looking to contribute something to Galaxy.ooo? Here's how you can help.
@@ -154,6 +155,25 @@ Adhering to the following process is the best way to get your work included in t
 **IMPORTANT**: By submitting a patch, you agree to allow the project owners to
 license your work under the terms of the [MIT License](https://github.com/galaxypi/galaxy.ooo/blob/master/LICENSE.md) (if it
 includes code changes).
+
+
+## Galaxy UI
+
+Galaxy UI is Galaxy's Sass based theme for the Bootstrap UI framework and is applied to all Galaxy products requiring a user interface.
+
+Galaxy UI theme edits are currently executed within galaxy.ooo.
+
+> At a future time, Galaxy UI will become it's own repository. Until then we request developers to ask before executing any edits to the theme.
+
+Visit [Bootstrap Theming](http://getbootstrap.com/docs/4.1/getting-started/theming/) documentation for information on Bootstrap Theming.
+
+#### Usage
+
+To compile Sass run
+
+```
+$ sass src/styles/Galaxy.scss src/styles/Galaxy.css
+```
 
 
 ## Code guidelines

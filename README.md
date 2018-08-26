@@ -89,16 +89,18 @@ galaxy.ooo
 │  └── manifest.json
 ├── README.md
 ├── src
-│  └── App.css
 │  └── App.js
-│  └── App.scss
 │  └── App.test.js
 │  └── components
 │  │  └── Header.js
-│  └── index.css
 │  └── index.js
 │  └── logo.svg
 │  └── registerServiceWorker.js
+│  └── styles
+│  │  └── Galaxy.css
+│  │  └── Galaxy.css.map
+│  │  └── Galaxy.scss
+│  │  └── index.css
 └── yarn.lock
 ```
 
