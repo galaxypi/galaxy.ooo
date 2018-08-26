@@ -48,14 +48,14 @@ Next navigate into the `galaxy.ooo` directory by running the change directory `c
 cd galaxy.ooo
 ```
 
-### Install Yarn
+### Install NPM
 
-[`yarn`](https://yarnpkg.com/) package manager is required to run `galaxy.ooo` as the app is bootstrapped with [`create-react-app-buildpack`](https://elements.heroku.com/buildpacks/nhutphuongit/create-react-app-buildpack) which requires us to use [`yarn`](https://yarnpkg.com/) as opposed to [`npm`](https://www.npmjs.com/get-npm).
+[NPM](https://www.npmjs.com/get-npm) package manager is installed with [Node.js](https://nodejs.org/en/download/package-manager/)
 
-Install [`yarn`](https://yarnpkg.com/lang/en/docs/install/) by running
+Install [NPM](https://www.npmjs.com/get-npm). NPM is installed with [Node.js](https://nodejs.org/en/download/package-manager/)
 
 ```
-brew install yarn
+brew install node
 ```
 
 ### Install dependencies
@@ -63,13 +63,13 @@ brew install yarn
 To install `dependencies` run
 
 ```
-yarn add
+npm install
 ```
 
 ### Run the app
 
 ```
-yarn start
+npm start
 ```
 
 Runs the app in development mode and opens [http://localhost:3000](http://localhost:3000) to view it in the browser.

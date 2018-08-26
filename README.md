@@ -54,10 +54,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Status
 
 - Build - passing
-- Changed `create-react-app` name to `client`
-- Introduces **[Galaxy UI](/docs/CONTRIBUTING.md#galaxy-ui)**. Galaxy's base theme for the Bootstrap UI framework
+- Introduces **[Galaxy UI](/docs/CONTRIBUTING.md#galaxy-ui)**. Galaxy's base theme for the [Bootstrap](http://getbootstrap.com/) front-end framework
+- Now utilizes `npm` package manager as opposed to previously using the `yarn` package manager.
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.6-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.7-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy UI](https://img.shields.io/badge/Galaxy_UI-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](/docs/CONTRIBUTING.md#galaxy-ui)
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
@@ -65,6 +65,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![AJV version](https://img.shields.io/badge/AJV-v6.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/epoberezkin/ajv)
 [![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
 [![jQuery version](https://img.shields.io/badge/jQuery-v3.3.1-blue.svg?colorA=212121&colorB=007BFF)](https://jquery.com/)
+[![NPM version](https://img.shields.io/badge/NPM-v6.4.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/)
 [![Popper version](https://img.shields.io/badge/Popper.js-v1.14.3-blue.svg?colorA=212121&colorB=007BFF)](https://popper.js.org/)
 [![React version](https://img.shields.io/badge/React-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
 [![ReactZDom version](https://img.shields.io/badge/ReactDom-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/docs/react-dom.html)
@@ -82,26 +83,27 @@ galaxy.ooo
 ├── docs
 │  └── CONTRIBUTING.md
 │  └── getting-started.md
+├── node_modules (1,069 items)
+├── package-lock.json
 ├── package.json
 ├── public
 │  └── favicon.ico
 │  └── index.html
 │  └── manifest.json
 ├── README.md
-├── src
-│  └── App.js
-│  └── App.test.js
-│  └── components
-│  │  └── Header.js
-│  └── index.js
-│  └── logo.svg
-│  └── registerServiceWorker.js
-│  └── styles
-│  │  └── Galaxy.css
-│  │  └── Galaxy.css.map
-│  │  └── Galaxy.scss
-│  │  └── index.css
-└── yarn.lock
+└── src
+   └── App.js
+   └── App.test.js
+   └── components
+   │  └── Header.js
+   └── index.js
+   └── logo.svg
+   └── registerServiceWorker.js
+   └── styles
+      └── Galaxy.css
+      └── Galaxy.css.map
+      └── Galaxy.scss
+      └── index.css
 ```
 
 <div align="right">
@@ -117,22 +119,22 @@ Quickly start by cloning the repository to your local machine
 $ git clone git@github.com:galaxypi/galaxy.ooo.git
 ```
 
-Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+Install [NPM](https://www.npmjs.com/get-npm). NPM is installed with [Node.js](https://nodejs.org/en/download/package-manager/)
 
 ```
-$ brew install yarn
+$ brew install node
 ```
 
 Add dependencies
 
 ```
-$ yarn add
+$ npm install
 ```
 
 Start the local client side server and run the app. The app will automatically open your web browser and navigate to http://localhost:3000/ for you
 
 ```
-$ yarn start
+$ npm start
 ```
 
 For detailed instructions on on installing and running Galaxy.ooo, please visit the [Getting started](/docs/getting-started.md) page.
