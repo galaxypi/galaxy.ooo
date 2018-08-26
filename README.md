@@ -67,7 +67,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
 [![jQuery version](https://img.shields.io/badge/jQuery-v3.3.1-blue.svg?colorA=212121&colorB=007BFF)](https://jquery.com/)
 [![npm version](https://img.shields.io/badge/npm-v6.4.0-blue.svg?colorA=212121&colorB=007BFF)](https://www.npmjs.com/)
-[![Popper version](https://img.shields.io/badge/Popper.js-v1.14.3-blue.svg?colorA=212121&colorB=007BFF)](https://popper.js.org/)
+[![Popper version](https://img.shields.io/badge/Popper.js-v1.14.4-blue.svg?colorA=212121&colorB=007BFF)](https://popper.js.org/)
 [![React version](https://img.shields.io/badge/React-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
 [![ReactZDom version](https://img.shields.io/badge/ReactDom-v16.4.1-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/docs/react-dom.html)
 [![React Scripts version](https://img.shields.io/badge/React_Scripts-v1.1.4-blue.svg?colorA=212121&colorB=007BFF)](https://reactjs.org/)
