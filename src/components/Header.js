@@ -8,7 +8,7 @@ class Header extends Component {
           height: '80px'
         }} >
         <a className="navbar-brand font-weight-bold text-white"
-          href="#"
+          href="/"
           style={{
             lineHeight: '2.5rem',
             fontSize: '1.2rem'
