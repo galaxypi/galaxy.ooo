@@ -48,11 +48,11 @@ Next navigate into the `galaxy.ooo` directory by running the change directory `c
 cd galaxy.ooo
 ```
 
-### Install NPM
+### Install npm
 
-[NPM](https://www.npmjs.com/get-npm) package manager is installed with [Node.js](https://nodejs.org/en/download/package-manager/)
+[`npm`](https://www.npmjs.com/get-npm) package manager is installed and comes bundled with [Node.js](https://nodejs.org/en/download/package-manager/)
 
-Install [NPM](https://www.npmjs.com/get-npm). NPM is installed with [Node.js](https://nodejs.org/en/download/package-manager/)
+Install [Node.js](https://nodejs.org/en/download/package-manager/)
 
 ```
 brew install node
