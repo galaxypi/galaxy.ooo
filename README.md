@@ -57,7 +57,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Changed `create-react-app` name to `client`
 - Introduces **Galaxy UI**. Galaxy's base theme for the Bootstrap UI framework
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.5-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.6-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy UI](https://img.shields.io/badge/Galaxy_UI-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
