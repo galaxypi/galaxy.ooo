@@ -55,7 +55,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Build - passing
 - Introduces **[Galaxy UI](/docs/CONTRIBUTING.md#galaxy-ui)**. Galaxy's base theme for the [Bootstrap](http://getbootstrap.com/) front-end framework
-- Now utilizes `npm` package manager as opposed to previously using the `yarn` package manager.
+- Now utilizes the [npm](https://www.npmjs.com/) package manager. Previously, [Yarn](https://yarnpkg.com/) package manager was required to run `galaxy.ooo` due to constraints from Heroku's [Create React App Buildpack](https://elements.heroku.com/buildpacks/nhutphuongit/create-react-app-buildpack)
 
 [![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.1.7-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy UI](https://img.shields.io/badge/Galaxy_UI-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](/docs/CONTRIBUTING.md#galaxy-ui)
