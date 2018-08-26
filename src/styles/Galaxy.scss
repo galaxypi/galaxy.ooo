@@ -1,10 +1,14 @@
-// App.scss
-//
-// App.scss is the file used for styling theme edits to the Bootstrap
-// framework. See [Bootstrap's Theming documentation](http://getbootstrap.com/
-// docs/4.1/getting-started/theming/) for styling information.
+// Galaxy UI (v0.1.0)
 
-// Usage: To compile Sass run `sass src/App.scss src/App.css`
+// Galaxy UI is Galaxy's base theme for the Bootstrap UI framework and is
+// applied to all Galaxy products requiring a user interface.
+
+// Visit the Bootstrap Theming documentation for information:
+// http://getbootstrap.com/docs/4.1/getting-started theming/
+
+// Usage
+// To compile Sass run
+// `$ sass src/styles/Galaxy.scss src/styles/Galaxy.css`
 
 $theme-colors: (
 );
