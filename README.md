@@ -62,8 +62,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
 [![CircleCI](https://circleci.com/gh/galaxypi/galaxy.ooo.svg?style=svg&circle-token=ad1f788b1717844c9749ce3eca75baef20e82b63)](https://circleci.com/gh/galaxypi/galaxy.ooo)
-[![Build Status](https://circleci.com/gh/galaxypi/galaxy.ooo.svg?circle-token=ad1f788b1717844c9749ce3eca75baef20e82b63&colorA=212121&colorB=00BB00)](https://circleci.com/gh/galaxypi/galaxy.ooo)
-
 [![AJV version](https://img.shields.io/badge/AJV-v6.5.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/epoberezkin/ajv)
 [![Bootstrap version](https://img.shields.io/badge/Bootstrap-v4.1.3-blue.svg?colorA=212121&colorB=007BFF)](http://getbootstrap.com/)
 [![jQuery version](https://img.shields.io/badge/jQuery-v3.3.1-blue.svg?colorA=212121&colorB=007BFF)](https://jquery.com/)
