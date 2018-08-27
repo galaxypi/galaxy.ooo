@@ -5,6 +5,7 @@
 
 # testing
 /test
+.nyc_output
 
 # production
 /build
