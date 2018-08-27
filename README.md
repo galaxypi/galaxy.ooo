@@ -106,6 +106,7 @@ galaxy.ooo
    └── logo.svg
    └── registerServiceWorker.js
    └── styles
+      └── App.css
       └── Galaxy.css
       └── Galaxy.css.map
       └── Galaxy.scss
