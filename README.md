@@ -108,7 +108,6 @@ galaxy.ooo
    └── styles
       └── App.css
       └── Galaxy.css
-      └── Galaxy.css.map
       └── Galaxy.scss
       └── index.css
 ```
