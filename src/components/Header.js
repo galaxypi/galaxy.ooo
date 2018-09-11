@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from './../img/galaxy-logo-white.svg';
 
 class Header extends Component {
   render() {
@@ -13,17 +14,10 @@ class Header extends Component {
             lineHeight: '2.5rem',
             fontSize: '1.2rem'
           }}>
-          {/*
-          <img src="#"
-            className="brand-image"
-            alt=""
-            width="38"
-            height="38"
-            style={{
-              marginRight: '5px'
-            }} />
-          */}
-          Galaxy
+          <img src={logo}
+            alt="Galaxy"
+            width="115"
+          />
         </a>
         {/*
         <form className="form-inline">
