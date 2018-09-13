@@ -1,6 +1,6 @@
 {
   "name": "Galaxy",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Galaxy is a network of decentralized nodes offering services for decentralized platforms",
   "private": true,
   "scripts": {
