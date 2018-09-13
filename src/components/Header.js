@@ -6,7 +6,8 @@ class Header extends Component {
     return (
       <nav className="navbar fixed-top"
         style={{
-          height: '80px'
+          height: '80px',
+          backgroundColor: '#000'
         }} >
         <a className="navbar-brand font-weight-bold text-white"
           href="/"
