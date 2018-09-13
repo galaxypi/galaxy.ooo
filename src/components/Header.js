@@ -26,7 +26,7 @@ class Header extends Component {
             disabled
             style={{
               marginRight: '10px',
-              opacity: '0.45'
+              opacity: '0.35'
             }}>
             Log in
           </button>
@@ -34,7 +34,7 @@ class Header extends Component {
             type="button"
             disabled
             style={{
-              opacity: '0.45'
+              opacity: '0.35'
             }}>
             Sign up
           </button>
