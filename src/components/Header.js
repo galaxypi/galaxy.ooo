@@ -19,21 +19,25 @@ class Header extends Component {
             width="115"
           />
         </a>
-        {/*
         <form className="form-inline">
-          <button className="btn btn-sm btn-outline-primary"
+          <button className="btn btn-sm btn-outline-light"
             type="button"
+            disabled
             style={{
-              marginRight: '10px'
+              marginRight: '10px',
+              opacity: '0.45'
             }}>
-            Sign in
+            Log in
           </button>
-          <button className="btn btn-sm btn-outline-primary"
-            type="button">
+          <button className="btn btn-sm btn-outline-light"
+            type="button"
+            disabled
+            style={{
+              opacity: '0.45'
+            }}>
             Sign up
           </button>
         </form>
-        */}
       </nav>
     );
   }
