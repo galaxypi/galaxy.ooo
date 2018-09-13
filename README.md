@@ -63,9 +63,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Setup CircleCI build test & automated CircleCI build status badge
     - Build passing...
 - Implemented Sass theming with full automated build, CSS minification, auto-watch and update, and start script
-- Started working on log in and sign up
+- Log in and sign up creation
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.3.6-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.3.7-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy UI](https://img.shields.io/badge/Galaxy_UI-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](/docs/CONTRIBUTING.md#galaxy-ui)
 [![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 
@@ -107,6 +107,7 @@ galaxy.ooo
    └── App.js
    └── App.test.js
    └── components
+   │  └── Footer.js
    │  └── Header.js
    └── index.js
    └── logo.svg

@@ -8,18 +8,19 @@ class Footer extends Component {
           style={{ 
             fontSize: '85%'
           }}>
-          <a href="https://github.com/galaxypi/galaxy" className="text-white font-weight-bold">
-            GitHub
-          </a>
-          &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-          <a href="https://github.com/orgs/galaxypi/people" className="text-white font-weight-bold">
-            Core team
-          </a>
-          &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-          <a href="https://twitter.com/GalaxyPiLab" className="text-white font-weight-bold">
-            Twitter
-          </a>
-          <br />
+          <div className="mb-2">
+            <a href="https://github.com/galaxypi/galaxy" className="text-white font-weight-bold">
+              GitHub
+            </a>
+            &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+            <a href="https://github.com/orgs/galaxypi/people" className="text-white font-weight-bold">
+              Core team
+            </a>
+            &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+            <a href="https://twitter.com/GalaxyPiLab" className="text-white font-weight-bold">
+              Twitter
+            </a>
+          </div>
           Galaxy Labs Inc. &copy; 2018.
         </p>
       </footer>
