@@ -1,1 +1,7 @@
 /* App.css */
+
+.btn-lg {
+  font-size: 1.1rem;
+  padding: .875rem 1rem;
+  line-height: 1.15;
+}
