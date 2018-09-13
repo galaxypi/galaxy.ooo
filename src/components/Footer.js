@@ -15,7 +15,7 @@ class Footer extends Component {
             Galaxy Core team
           </a>
           <br />
-          Galxy Labs Inc. &copy; 2018.
+          Galaxy Labs Inc. &copy; 2018.
         </p>
       </footer>
     );
