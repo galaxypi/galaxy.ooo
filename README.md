@@ -29,7 +29,9 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1711854/45511851-1915a500-b76c-11e8-9ae7-37dca7fc347b.png" width="800px" alt="Galaxy.ooo v0.3.5">
+  <a href="http://galaxy.ooo">
+    <img src="https://user-images.githubusercontent.com/1711854/45511851-1915a500-b76c-11e8-9ae7-37dca7fc347b.png" width="800px" alt="Galaxy.ooo v0.3.5">
+  </a>
 </p>
 
 <br/>
