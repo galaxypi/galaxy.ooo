@@ -19,14 +19,14 @@ class App extends Component {
           }}>
           <h1 className="text-white">Galaxy</h1>
           <p className="lead text-white-50 font-weight-bold">Galaxy is a blockchain agnostic, always on, node network and protocol offering services to decentralized platforms</p>
-          <a href="https://github.com/galaxypi/galaxy/" 
+          <a href="https://github.com/galaxypi/galaxy/#quick-start" 
             className="btn btn-lg btn-light btn-block mb-5 mx-auto"
             role="button"
             style={{
               maxWidth: '440px',
               marginTop: '35px'
             }}>
-            GitHub
+            Install Galaxy
           </a>
         </main>
         <Footer />
