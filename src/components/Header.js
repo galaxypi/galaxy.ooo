@@ -20,7 +20,7 @@ class Header extends Component {
           />
         </a>
         <form className="form-inline">
-          <button className="btn btn-sm btn-outline-light"
+          <button className="btn btn-sm btn-outline-light font-weight-bold"
             type="button"
             disabled
             style={{
@@ -29,7 +29,7 @@ class Header extends Component {
             }}>
             Log in
           </button>
-          <button className="btn btn-sm btn-outline-light"
+          <button className="btn btn-sm btn-outline-light font-weight-bold"
             type="button"
             disabled
             style={{

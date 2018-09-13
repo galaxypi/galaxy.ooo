@@ -1,7 +1,14 @@
 /* App.css */
 
+h1 {
+  font-weight: 700;
+}
+.lead {
+  font-weight: 600;
+}
 .btn-lg {
   font-size: 1.1rem;
+  font-weight: 700;
   padding: .875rem 1rem;
-  line-height: 1.15;
+  line-height: 1.25;
 }
