@@ -4,10 +4,9 @@ class Footer extends Component {
   render() {
     return (
       <footer className="mt-auto mx-auto text-center">
-        <p className="mb-3 text-muted text-sm" 
+        <p className="mb-2 text-white-50 text-sm font-weight-bold" 
           style={{ 
-            fontSize: '85%',
-            fontWeight: '700'
+            fontSize: '85%'
           }}>
           <a href="https://github.com/orgs/galaxypi/people"
             style={{
