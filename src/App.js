@@ -15,9 +15,9 @@ class App extends Component {
           paddingBottom: '40px'
         }}>
         <Header />
-        <div className="container-fluid cover-container text-center">
+        <div className="container-fluid col-11 col-sm-11 col-md-10 col-lg-7 col-xl-5 cover-container text-center">
           <h1 className="text-white">Galaxy</h1>
-          <p className="lead text-white-50">Galaxy is a network of decentralized nodes offering services for decentralized platforms</p>
+          <p className="lead text-white-50">Galaxy is a blockchain agnostic, always on, node network and protocol offering services to decentralized platforms</p>
         </div>
       </div>
     );
