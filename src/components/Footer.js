@@ -20,6 +20,10 @@ class Footer extends Component {
             <a href="https://twitter.com/GalaxyPiLab" className="text-white font-weight-bold">
               Twitter
             </a>
+            &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+            <a href="https://discord.gg/36K9nan" className="text-white font-weight-bold">
+              Community
+            </a>
           </div>
           Galaxy Labs Inc. &copy; 2018.
         </p>
