@@ -2,7 +2,8 @@
 
 .lead {
   font-size: 1.5rem;
-  letter-spacing: 0.035em;
+  font-weight: 400;
+  letter-spacing: 0.025em;
 }
 .btn-lg {
   font-size: 1.1rem;
@@ -30,7 +31,7 @@
   }
   .lead {
     font-size: 1.25rem;
-    letter-spacing: 0.035em;
+    letter-spacing: 0.025em;
     margin-bottom: 2rem;
   }
 }
@@ -42,7 +43,7 @@
   }
   .lead {
     font-size: 1.35rem;
-    letter-spacing: 0.035em;
+    letter-spacing: 0.025em;
     margin-bottom: 2.5rem;
   }
   .text-footer {
