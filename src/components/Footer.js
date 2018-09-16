@@ -4,10 +4,7 @@ class Footer extends Component {
   render() {
     return (
       <footer className="mt-auto mx-auto text-center">
-        <p className="mb-2 text-white-50 text-sm" 
-          style={{ 
-            fontSize: '85%'
-          }}>
+        <div className="mb-2 text-white-50 text-footer">
           <div className="mb-2">
             <a href="https://github.com/galaxypi/galaxy" className="text-white font-weight-bold">
               GitHub
@@ -22,11 +19,11 @@ class Footer extends Component {
             </a>
             &nbsp;&nbsp;&middot;&nbsp;&nbsp;
             <a href="https://discord.gg/36K9nan" className="text-white font-weight-bold">
-              Community
+              Chat (Discord)
             </a>
           </div>
           Galaxy Labs Inc. &copy; 2018.
-        </p>
+        </div>
       </footer>
     );
   }

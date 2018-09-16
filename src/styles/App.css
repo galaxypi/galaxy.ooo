@@ -10,6 +10,15 @@
   padding: .875rem 1rem;
   line-height: 1.25;
 }
+.text-footer {
+  font-size: 80%;
+}
+.btn-hero {
+  max-width: 215px;
+}
+.content-hero {
+  margin-top: -25px;
+}
 
 /* Extra small devices (portrait phones, less than 576px) */
 /* No media query for `xs` since this is the default in Bootstrap */
@@ -35,6 +44,15 @@
     font-size: 1.35rem;
     letter-spacing: 0.035em;
     margin-bottom: 2.5rem;
+  }
+  .text-footer {
+    font-size: 85%;
+  }
+  .btn-hero {
+    max-width: 440px;
+  }
+  .content-hero {
+    margin-top: 0;
   }
 }
 

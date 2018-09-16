@@ -65,7 +65,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Implemented Sass theming with full automated build, CSS minification, auto-watch and update, and start script
 - Log in and sign up creation
 
-[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.3.8-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
+[![Galaxy.ooo version](https://img.shields.io/badge/galaxy.ooo-v0.3.9-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy.ooo)
 [![Galaxy UI](https://img.shields.io/badge/Galaxy_UI-v0.1.0-brightgreen.svg?colorA=212121&colorB=00BB00)](/docs/CONTRIBUTING.md#galaxy-ui)
 [![Galaxy Community](https://img.shields.io/badge/Galaxy_Community-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
 

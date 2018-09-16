@@ -1,7 +1,7 @@
 {
   "name": "Galaxy",
-  "version": "0.3.8",
-  "description": "Galaxy is a network of decentralized nodes offering services for decentralized platforms",
+  "version": "0.3.9",
+  "description": "Galaxy is a network of decentralized nodes and node protocol offering services to decentralized platforms",
   "private": true,
   "scripts": {
     "build-css": "node-sass-chokidar src/styles/ -o src/styles/",
