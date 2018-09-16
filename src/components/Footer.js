@@ -6,7 +6,7 @@ class Footer extends Component {
       <footer className="mt-auto mx-auto text-center">
         <div className="mb-2 text-white-50 text-footer font-weight-bold">
           <div className="mb-2">
-            <a href="https://github.com/galaxypi/galaxy" className="text-white">
+            <a href="https://github.com/galaxypi/" className="text-white">
               GitHub
             </a>
             &nbsp;&nbsp;&middot;&nbsp;&nbsp;
