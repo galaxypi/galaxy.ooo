@@ -25,12 +25,15 @@ class App extends Component {
             protocol offering services to decentralized platforms
           </div>
           <a href="https://github.com/galaxypi/galaxy/" 
-            className="btn btn-lg btn-light btn-block mb-4 mx-auto btn-hero"
+            className="btn btn-lg btn-light btn-block mb-4 mx-auto d-none d-md-block btn-hero"
             role="button">
             Install Galaxy
           </a>
-          <div className="mb-44 text-white-50">
-            (Linux & macOS)
+          <div className="mb-44 text-white-50 d-none d-md-block"
+          style={{
+            fontSize: '90%'
+          }}>
+            Testnet v0.4.0-alpha (Linux & macOS)
           </div>
         </main>
         <Footer />
