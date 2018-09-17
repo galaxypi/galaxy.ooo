@@ -17,14 +17,21 @@ class App extends Component {
           style={{
             maxWidth: '685px'
           }}>
-          <h1 className="display-1 text-white font-weight-bold">Galaxy</h1>
-          <div className="lead text-white-50">Galaxy is a blockchain agnostic, always on, node network and protocol offering services to decentralized platforms
+          <h1 className="display-1 text-white font-weight-bold">
+            Galaxy
+          </h1>
+          <div className="lead text-white-50">
+            Galaxy is a blockchain agnostic, always on, node network and 
+            protocol offering services to decentralized platforms
           </div>
           <a href="https://github.com/galaxypi/galaxy/" 
-            className="btn btn-lg btn-light btn-block mb-5 mx-auto btn-hero"
+            className="btn btn-lg btn-light btn-block mb-4 mx-auto btn-hero"
             role="button">
             Install Galaxy
           </a>
+          <div className="mb-44 text-white-50">
+            (Linux & macOS)
+          </div>
         </main>
         <Footer />
       </div>

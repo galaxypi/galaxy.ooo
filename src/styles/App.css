@@ -19,16 +19,15 @@
 }
 .content-hero {
   margin-top: -25px;
-  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 2s; /* Firefox < 16 */
-        -ms-animation: fadein 2s; /* Internet Explorer */
-         -o-animation: fadein 2s; /* Opera < 12.1 */
-            animation: fadein 2s;
+  animation: fadein 2.5s;
 }
-/* Safari, Chrome and Opera > 12.1 */
-@-webkit-keyframes fadein {
+@keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
+}
+@keyframes floatBubble {
+  0% {margin-top: 55px;}
+  100% {margin-top: 0px;}
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
