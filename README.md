@@ -30,7 +30,7 @@
 <br/>
 <p align="center">
   <a href="http://galaxy.ooo">
-    <img src="https://storage.googleapis.com/galaxy.ooo/img/galaxy.ooo-thumbnail-v0.3.9.png" width="800px" alt="Galaxy.ooo v0.3.9">
+    <img src="https://storage.googleapis.com/galaxy.ooo/img/galaxy.ooo-thumbnail-v0.3.11.png" width="800px" alt="Galaxy.ooo">
   </a>
 </p>
 
