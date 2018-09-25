@@ -10,10 +10,6 @@ class Footer extends Component {
               GitHub
             </a>
             &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-            <a href="https://github.com/orgs/galaxypi/people" className="text-white">
-              Core team
-            </a>
-            &nbsp;&nbsp;&middot;&nbsp;&nbsp;
             <a href="https://twitter.com/GalaxyPiLab" className="text-white">
               Twitter
             </a>

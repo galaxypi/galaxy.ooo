@@ -243,9 +243,9 @@ For more details on how to get involved in the Galaxy Community visit the [Galax
 
 ## Repository maintainers
 
-**Guy Lepage**, _Product, Design & Development_
-- <https://twitter.com/guylepage3>
-- <https://github.com/guylepage3>
+**Jacob Gadikian**, _Blockchain Engineer_
+- <https://twitter.com/gadikian>
+- <https://github.com/faddat>
 
 <div align="right">
     <b><a href="#galaxy-website-and-web-app">^ back to top</a></b>
